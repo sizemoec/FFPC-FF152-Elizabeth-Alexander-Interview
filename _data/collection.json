@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Elizabeth Alexander Interview 09/23/04" ] },
+    "summary": { "en": [ "Meta DuEwa Jones interviews Elizabeth Alexander, camera stays on Alexander" ] },
+    "items": [
+    ]
+}
