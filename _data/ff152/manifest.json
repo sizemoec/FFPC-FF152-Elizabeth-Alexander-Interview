@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sizemoec.github.io/FFPC-FF152-Elizabeth-Alexander-Interview/ff152/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "FF152" ] },
+    "homepage": [
+      {
+        "id": "https://commons.lib.jmu.edu/ffpc-2004/21/",
+        "type": "Text",
+        "label": { "en": [ "FF152" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://commons.lib.jmu.edu/",
+        "type": "Agent",
+        "label": { "en": [ "JMU Libraries" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sizemoec.github.io/FFPC-FF152-Elizabeth-Alexander-Interview/ff152/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2357,
+        "items": [
+          {
+            "id": "https://sizemoec.github.io/FFPC-FF152-Elizabeth-Alexander-Interview/ff152/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sizemoec.github.io/FFPC-FF152-Elizabeth-Alexander-Interview/ff152/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://urldefense.proofpoint.com/v2/url?u=https-3A__dl.dropboxusercontent.com_s_rlh339yh7002wtz_FF152.mp3-3Fraw-3D1&d=DwMFAw&c=eLbWYnpnzycBCgmb7vCI4uqNEB9RSjOdn_5nBEmmeq0&r=ScbNOsiB7XdoTVCZA8jV2G7xxl3kyBe8lONP8md3iF4&m=lGi1tyUA3uZC-ehJHkBQpQkg_u_DfESTCg7CGdhJFv4&s=-9kdb-XicPICdwdhp4UJ--TXhRpSj-McuA5Yb9VdlpE&e=",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2357
+                },
+                "target": "https://sizemoec.github.io/FFPC-FF152-Elizabeth-Alexander-Interview/ff152/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
